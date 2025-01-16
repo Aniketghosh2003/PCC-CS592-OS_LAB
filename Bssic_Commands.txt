@@ -1,0 +1,45 @@
+Here’s a list of basic Linux commands:
+
+1. `pwd`  
+2. `ls`  
+3. `cd`  
+4. `touch`  
+5. `mkdir`  
+6. `rm`  
+7. `cp`  
+8. `mv`  
+9. `cat`  
+10. `nano`  
+11. `vim`  
+12. `echo`  
+13. `clear`  
+14. `man`  
+15. `chmod`  
+16. `chown`  
+17. `df`  
+18. `du`  
+19. `top`  
+20. `ps`  
+21. `kill`  
+22. `exit`  
+23. `grep`  
+24. `find`  
+25. `tar`  
+26. `wget`  
+27. `curl`  
+28. `apt`  
+29. `yum`  
+30. `ssh`  
+31. `scp`  
+32. `ping`  
+33. `ifconfig`  
+34. `hostname`  
+35. `uptime`  
+36. `whoami`  
+37. `passwd`  
+38. `history`  
+39. `alias`  
+40. `uname`  
+
+
+For Reference - https://www.geeksforgeeks.org/basic-linux-commands/

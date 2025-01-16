@@ -1,0 +1,2 @@
+We are telnet Server on the windows Computer for the Linux Like Enviornment.
+Every Code is done in Vim Sofrtware .
