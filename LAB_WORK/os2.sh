@@ -12,7 +12,8 @@
 
 # for ((i = 3; i <= n; i++)); do
 #   c=$((a + b))   
-#   echo "$c"      
+#   echo "$c"   
+#   a=$b   
 #   b=$c           
 # done
 

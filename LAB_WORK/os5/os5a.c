@@ -11,12 +11,12 @@ void main()
     {
         printf("\nI am the child process and my pid is %d and my parent process id is %d", getpid(), getppid());
         printf("\nNow I will get replaced by another programm");
-        execl("./5b_newchild","5b_newchild", NULL);
+        execl("./5b_newchild", "5b_newchild", NULL);
         printf("\nYou can not read me.");
     }
     else
     {
-        wait(0);
+        wait(NULL);
         printf("\nI am the parent process and pid is %d", getpid());
     }
 }
